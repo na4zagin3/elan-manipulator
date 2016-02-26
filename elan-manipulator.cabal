@@ -24,7 +24,6 @@ executable elan-merge-time
   -- other-extensions:    
   build-depends:       base >=4.7 && <4.9
                      , hxt
-                     , hxt-xpath >= 9.1 && < 10
                      , HandsomeSoup
                      , Diff > 0.3
                      , cassava >= 0.4 && < 0.5

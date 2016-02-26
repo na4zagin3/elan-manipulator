@@ -10,7 +10,6 @@ import qualified Options.Applicative as Opt
 
 import Control.Lens
 import Text.XML.HXT.Core
-import Text.XML.HXT.XPath.XPathEval
 import Text.HandsomeSoup
 
 import Data.Char
